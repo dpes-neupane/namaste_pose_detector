@@ -7,6 +7,9 @@
 This project uses mediapipe for getting the landmarks of the different parts of the body.
 
 
-https://user-images.githubusercontent.com/57759185/188540743-8034c4a3-3a8a-4ee7-8ea9-b70bd9933e1a.mp4
+
+
+https://user-images.githubusercontent.com/57759185/188541055-4cf2c9b0-8812-4e84-86c1-14780faa4e40.mp4
+
 
 
